@@ -6,7 +6,6 @@ Built a real-time cryptocurrency data pipeline using Python, AWS S3, Apache Airf
 ## Tech Stack
 - Python
 - REST API
-- Pandas
 - AWS S3
 - Apache Airflow
 - Docker
